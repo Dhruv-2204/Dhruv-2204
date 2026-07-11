@@ -5,6 +5,9 @@
 ## About Me
 
 - I am a Fresh Computer Science Graduate From Middlesex University Mauritius
+- Interested in Software Development & Artificial Intelligence
+- Building full-stack and machine learning projects
+- Looking for Software Engineering / AI internships
 
 
 
@@ -42,11 +45,20 @@ Here are some ideas to get you started:
 
 </p>
 
-## Featured Projects
+## Featured Projects: 
+
+### Posture Correction App
+
+### Car Rental System
+Car rental management system built with C#, Winform and SQL Server.
 
 ## GitHub Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-2204)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-2204&show_icons=true&theme=tokyonight"/>
+</p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 
 
