@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there !!
+
+### Software Developer | AI Enthusiast
+
+## About Me
+
+- I am a Fresh Computer Science Graduate From Middlesex University Mauritius
+
+
 
 <!--
 **Dhruv-2204/Dhruv-2204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +23,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💼 Skills & Tools
+##  Skills & Tools
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,3 +41,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
+
+## Featured Projects
+
+## GitHub Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Dhruv-2204)
+
+
+
+## Currently Learning
+
+## Connect
