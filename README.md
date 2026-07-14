@@ -48,9 +48,10 @@ Here are some ideas to get you started:
 ## Featured Projects: 
 
 ### Posture Correction App
+- Posture correction system - A fullstack project consisting of a backend, frontend and ML service.
 
 ### Car Rental System
-Car rental management system built with C#, Winform and SQL Server.
+- Car rental management system built with C#, Winform and SQL Server.
 
 ## GitHub Stats
 
@@ -64,4 +65,10 @@ Car rental management system built with C#, Winform and SQL Server.
 
 ## Currently Learning
 
-## Connect
+Backend development and clean system design
+ML deployment pipelines
+Data structures
+
+
+
+
