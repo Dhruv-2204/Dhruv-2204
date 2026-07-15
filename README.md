@@ -1,4 +1,4 @@
-## Hi there !!
+## Hello there, I am Dhruv !!
 
 ### Software Developer | AI Enthusiast
 
@@ -43,6 +43,30 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=white">
+<img src="https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff">
+<img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff">
+<img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff">
+<img src="https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff">
+<img src="https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?&logo=canva&logoColor=white)">
+<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff">
+<img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff">
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff">
+
+
+
+
+
+
+
 
 </p>
 
