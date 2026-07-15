@@ -7,6 +7,7 @@
 - I am a Fresh Computer Science Graduate From Middlesex University Mauritius
 - Interested in Software Development & Artificial Intelligence
 - Building full-stack and machine learning projects
+- Enjoy participating in coding competitions / Hackathons.
 - Looking for Software Engineering / AI internships
 
 
@@ -53,21 +54,18 @@ Here are some ideas to get you started:
 ### Car Rental System
 - Car rental management system built with C#, Winform and SQL Server.
 
-## GitHub Stats
+### Office Items Recognition system
+- YOLO model recognising up to 10 common office items. 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhruv-2204&show_icons=true&theme=tokyonight"/>
-</p>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+### Garaage Assistant System
+-  Intelligent robotic system designed to fetch tools from a workshop environment using prompts, voice commands, computer vision, and robotic arm manipulation.
 
 
 ## Currently Learning
 
-Backend development and clean system design
-ML deployment pipelines
-Data structures
+- Backend development and clean system design
+- ML deployment pipelines
+- Data structures
 
 
 
